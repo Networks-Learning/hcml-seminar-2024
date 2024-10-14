@@ -35,7 +35,7 @@ You are expected to be familiar with the fundamentals of Machine Learning. Only 
 
 ## Registration
 
-Fill out this form: available soon
+Fill out this form: [https://forms.gle/puBPTUMJFRJZhePu7](https://forms.gle/puBPTUMJFRJZhePu7)
 
 You are required to enter your name, email address, student number and the list of the courses from the "intelligent systems" specialization that you have already passed, along with your obtained grade. We consider you fit for the seminar if you are a master's student and have passed courses about the fundamentals of machine learning with a satisfactory grade.
 
