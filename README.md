@@ -48,7 +48,7 @@ Acceptance notification for the course will be sent by email on 06-11-2024
 
 ## Topic selection
 
-After receiving an email of acceptance, please rank your preferred topics by completing this form: available soon
+After receiving an email of acceptance, please rank your preferred topics by completing this [form](https://prettyform.addxt.com/a/form/?vf=1FAIpQLScZgq7-Th9-V3AV2-RQgZxI3yNtRL9ubCWMr0hPG1XZMeGIAg)
 
 Make sure you rank all available topics based on your preferences by 27-11-2024.
 
