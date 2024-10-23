@@ -27,7 +27,7 @@ The presentations will be scheduled on 3-4 days during the Winter semester. As a
 
 ## Available topics
  
-A list of available topics and papers is available [here](https://docs.google.com/document/d/12UGu9BenZFOmmGjMhGPl5RchiT5mX953bBMhKUt8LzY/edit?usp=sharing)
+A list of available topics and papers is available [here](https://docs.google.com/document/d/12UGu9BenZFOmmGjMhGPl5RchiT5mX953bBMhKUt8LzY/edit?usp=sharing).
 
 ## Prerequisites
 
