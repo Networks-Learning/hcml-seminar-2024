@@ -54,9 +54,9 @@ Make sure you rank all available topics based on your preferences by 27-11-2024.
 
 Assignment of papers will be notified on 04-12-2024.
 
-## Presentation schedule
+## Paper assignment and presentation schedule
 
-The paper assignment and presentation schedule will be announced at a later date.
+The paper assignment is available [here](https://docs.google.com/spreadsheets/d/1cZpdRiH4CDqfBytjO1AVYelv9y80F-T_XbjVZy5a96w/edit?usp=sharing). The presentation schedule will be announced at a later date.
 
 ## Location:
 
