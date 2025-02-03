@@ -56,7 +56,7 @@ Assignment of papers will be notified on 04-12-2024.
 
 ## Paper assignment and presentation schedule
 
-The paper assignment and presentation schdule is available [here](https://docs.google.com/spreadsheets/d/1cZpdRiH4CDqfBytjO1AVYelv9y80F-T_XbjVZy5a96w/edit?usp=sharing).
+The paper assignment and presentation schedule is available [here](https://docs.google.com/spreadsheets/d/1cZpdRiH4CDqfBytjO1AVYelv9y80F-T_XbjVZy5a96w/edit?usp=sharing).
 ## Location:
 
  - Kickoff meeting: 24-10-2024 Thursday, 15:00 - 16:00
